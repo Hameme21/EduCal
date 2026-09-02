@@ -1,0 +1,101 @@
+[
+  {
+    "id": "CS101-MON",
+    "subject": "Data Structures & Algorithms",
+    "courseCode": "CSE-201",
+    "dayOfWeek": 1,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "room": "Lab 402",
+    "instructor": "Dr. Sarah Connor",
+    "color": "#4A90E2"
+  },
+  {
+    "id": "CS102-MON",
+    "subject": "Database Management Systems",
+    "courseCode": "CSE-205",
+    "dayOfWeek": 1,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "room": "Room 301",
+    "instructor": "Prof. Alan Turing",
+    "color": "#50E3C2"
+  },
+  {
+    "id": "CS103-TUE",
+    "subject": "Operating Systems",
+    "courseCode": "CSE-301",
+    "dayOfWeek": 2,
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "room": "Room 204",
+    "instructor": "Dr. Linus Torvalds",
+    "color": "#9013FE"
+  },
+  {
+    "id": "CS104-TUE",
+    "subject": "Computer Networks",
+    "courseCode": "CSE-305",
+    "dayOfWeek": 2,
+    "startTime": "13:30",
+    "endTime": "15:00",
+    "room": "Lab 102",
+    "instructor": "Dr. Vint Cerf",
+    "color": "#F5A623"
+  },
+  {
+    "id": "CS105-WED",
+    "subject": "Software Engineering",
+    "courseCode": "CSE-309",
+    "dayOfWeek": 3,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "room": "Room 305",
+    "instructor": "Prof. Margaret Hamilton",
+    "color": "#E91E63"
+  },
+  {
+    "id": "CS106-WED",
+    "subject": "Artificial Intelligence",
+    "courseCode": "CSE-401",
+    "dayOfWeek": 3,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "room": "Auditorium B",
+    "instructor": "Dr. Geoffrey Hinton",
+    "color": "#00BCD4"
+  },
+  {
+    "id": "CS107-THU",
+    "subject": "Data Structures & Algorithms",
+    "courseCode": "CSE-201",
+    "dayOfWeek": 4,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "room": "Lab 402",
+    "instructor": "Dr. Sarah Connor",
+    "color": "#4A90E2"
+  },
+  {
+    "id": "CS108-THU",
+    "subject": "Operating Systems Lab",
+    "courseCode": "CSE-302",
+    "dayOfWeek": 4,
+    "startTime": "14:00",
+    "endTime": "16:30",
+    "room": "System Lab 1",
+    "instructor": "Dr. Linus Torvalds",
+    "color": "#9013FE"
+  },
+  {
+    "id": "CS109-FRI",
+    "subject": "Web Application Development",
+    "courseCode": "CSE-315",
+    "dayOfWeek": 5,
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "room": "Web Lab 202",
+    "instructor": "Prof. Tim Berners-Lee",
+    "color": "#7ED321"
+  }
+]
