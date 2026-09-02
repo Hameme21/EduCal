@@ -71,7 +71,7 @@ educal/
 │   └── academic_calendar_sample.csv            # Sample academic calendar (CSV)
 └── test/
     ├── calendar_service_test.dart              # Holiday suppression logic unit tests
-    ├── file_parser_service_test.dart           # CSV/JSON parser unit tests
+    ├── file_parser_service_test.dart           # CSV/JSON/ICS parser unit tests
     └── widget_test.dart                        # Flutter widget test
 ```
 
