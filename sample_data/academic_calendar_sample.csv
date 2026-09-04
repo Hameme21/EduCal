@@ -1,0 +1,10 @@
+id,title,description,startDate,endDate,category,isHoliday,priority
+HOL-001,Janmashtami & Summer Recess,University will remain closed on account of Janmashtami and seasonal summer recess.,2026-08-25,2026-08-25,holiday,true,high
+FEE-001,Semester Tuition Fee (1st Installment) Deadline,Last date to pay 1st installment of semester tuition fees without 5% late surcharge.,2026-08-28,2026-08-28,semesterFee,false,urgent
+HOL-002,Labor Day / University Foundation Holiday,Annual university foundation observance. No administrative offices or academic classes open.,2026-09-02,2026-09-02,holiday,true,high
+ADM-001,Course Add/Drop Final Deadline,Final chance to add or drop elective courses via the student portal without academic penalty.,2026-09-07,2026-09-07,administrative,false,medium
+HOL-003,Autumn Mid-Semester Break,Mid-semester break for students and faculty members.,2026-09-15,2026-09-18,holiday,true,high
+FEE-002,Semester Tuition Fee (2nd Installment) Deadline,Last date for settling remaining semester tuition fee balance and lab charges.,2026-09-25,2026-09-25,semesterFee,false,urgent
+EXAM-001,Midterm Examination Week,Mid-semester examinations across all engineering and science departments.,2026-10-04,2026-10-10,exam,false,urgent
+EVT-001,Annual Hackathon & Tech Fest 2026,36-hour intra-university hackathon organized by Computer Science Department.,2026-10-23,2026-10-24,event,false,medium
+HOL-004,National Unity & Cultural Holiday,All academic classes and laboratory sessions suspended.,2026-10-28,2026-10-28,holiday,true,high

@@ -1,0 +1,10 @@
+id,subject,courseCode,dayOfWeek,startTime,endTime,room,instructor,color
+CS101-MON,Data Structures & Algorithms,CSE-201,1,09:00,10:30,Lab 402,Dr. Sarah Connor,#4A90E2
+CS102-MON,Database Management Systems,CSE-205,1,11:00,12:30,Room 301,Prof. Alan Turing,#50E3C2
+CS103-TUE,Operating Systems,CSE-301,2,10:00,11:30,Room 204,Dr. Linus Torvalds,#9013FE
+CS104-TUE,Computer Networks,CSE-305,2,13:30,15:00,Lab 102,Dr. Vint Cerf,#F5A623
+CS105-WED,Software Engineering,CSE-309,3,09:00,10:30,Room 305,Prof. Margaret Hamilton,#E91E63
+CS106-WED,Artificial Intelligence,CSE-401,3,11:00,12:30,Auditorium B,Dr. Geoffrey Hinton,#00BCD4
+CS107-THU,Data Structures & Algorithms,CSE-201,4,09:00,10:30,Lab 402,Dr. Sarah Connor,#4A90E2
+CS108-THU,Operating Systems Lab,CSE-302,4,14:00,16:30,System Lab 1,Dr. Linus Torvalds,#9013FE
+CS109-FRI,Web Application Development,CSE-315,5,10:00,12:00,Web Lab 202,Prof. Tim Berners-Lee,#7ED321
